@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.microsoft.appcenter:espresso-test-extension:1.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e0c66c5aad23166cf692e4b40d1d0971/transformed/jetified-espresso-test-extension-1.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e0c66c5aad23166cf692e4b40d1d0971/transformed/jetified-espresso-test-extension-1.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e0c66c5aad23166cf692e4b40d1d0971/transformed/jetified-espresso-test-extension-1.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e57e62f63a27ac9120602e299cc5fcb3/transformed/jetified-espresso-test-extension-1.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e57e62f63a27ac9120602e299cc5fcb3/transformed/jetified-espresso-test-extension-1.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e57e62f63a27ac9120602e299cc5fcb3/transformed/jetified-espresso-test-extension-1.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.microsoft.appcenter/espresso-test-extension/1.4/899900c3dc8f03aa9cc535f5ca0033c7049c729a/espresso-test-extension-1.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.microsoft.appcenter/espresso-test-extension/1.4/4961f2b65528ccbba0265c3e6cc26c6cbf6e2a04/espresso-test-extension-1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
